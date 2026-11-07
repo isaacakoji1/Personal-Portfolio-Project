@@ -1,0 +1,1 @@
+console.log("Personal Portfolio website JavaScript loaded successfully")
